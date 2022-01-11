@@ -6,4 +6,8 @@ body{
     max-width: 600px;
     margin: auto;
 }
-h2{color: aqua;}
+h2{color: #00ffff;}
+.container-center{
+    padding-left: 1rem;
+    padding: right 1rem; ;
+}
