@@ -2,7 +2,8 @@
 body{
     font-family: 'PT Serif', serif;
 }
-.centered{
+.container{
     max-width: 600px;
     margin: auto;
 }
+h2{color: aqua;}
