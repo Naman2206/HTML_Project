@@ -2,3 +2,7 @@
 body{
     font-family: 'PT Serif', serif;
 }
+.centered{
+    max-width: 6000px;
+    margin: auto;
+}
