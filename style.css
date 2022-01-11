@@ -6,8 +6,14 @@ body{
     max-width: 600px;
     margin: auto;
 }
-h2{color: #00ffff;}
+h2{color:blue;}
 .container-center{
     padding-left: 1rem;
     padding: right 1rem; ;
+}
+.links{
+    color: blueviolet;
+}
+.links link{
+    color: brown;
 }
