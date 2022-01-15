@@ -16,14 +16,25 @@ h2{color:blue;}
     padding: right 1rem; ;
 }
 .primary-link{
-   background-color: blueviolet; 
+   background-color: rgba(165, 30, 124, 0.63); 
    border-radius: 0.5rem;
    border: 1px solid ;
+   color: aliceblue;
 }
    
 .secondary-link{
-background-color: green;
+background-color: rgb(9, 0, 128);
 border-radius: 0.5rem;
-color:brown;
+color:whitesmoke;
     border: 1px solid;
+}
+hr{
+    margin: 2rem 0rem;
+}
+.List-non-bullet{
+    list-style: none;
+    
+}
+.List-inline-non-bullet{
+    list-style: none;
 }
