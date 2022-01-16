@@ -38,3 +38,6 @@ hr{
 .List-inline-non-bullet{
     list-style: none;
 }
+.List-inline-Item{
+    display: inline;
+}
