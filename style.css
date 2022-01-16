@@ -40,4 +40,5 @@ hr{
 }
 .List-inline-Item{
     display: inline;
+    padding: 0rem 0.5rem;
 }
