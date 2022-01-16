@@ -42,3 +42,25 @@ hr{
     display: inline;
     padding: 0rem 0.5rem;
 }
+.navigation{
+    background-color: var(--primary-color);
+    color:black;
+
+}
+.navigation .link{
+    color:aliceblue;
+    background-color: var(--primary-color);
+    border-radius: 00.5rem;
+    border: 1px solid;
+
+    
+}
+.navigation .link-active{
+    font-weight: bold;
+ font-size: 2rem;
+
+}
+.navigation .nav-brand{
+    font-weight: bold;
+    font-size:2rem ;
+}
