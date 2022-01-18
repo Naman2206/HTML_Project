@@ -113,3 +113,6 @@ padding: 2rem;
 .ow{
     background-color: #f1f5f9;
 }
+.footer .List-inline-Item{
+    display: inline;
+}
