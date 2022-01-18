@@ -11,7 +11,7 @@ body{
     max-width: 600px;
     margin: auto;
 }
-h2{color:blue;}
+h2{color:#581c87;}
 .container-center{
     padding-left: 1rem;
     padding: right 1rem; ;
@@ -28,6 +28,12 @@ background-color: rgb(9, 0, 128);
 border-radius: 0.5rem;
 color:whitesmoke;
     border: 1px solid;
+}
+.third-link{
+    background-color: #38bdf8;
+    border-radius: 0.5rem;
+    border: 1px solid;
+
 }
 hr{
     margin: 2rem 0rem;
@@ -99,4 +105,11 @@ img.img-header{
     text-align: center;
     color: var(--dark-gray);
     
+}
+.section h3{
+text-align: center;
+padding: 2rem;
+}
+.ow{
+    background-color: #f1f5f9;
 }
