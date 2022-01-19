@@ -116,3 +116,16 @@ padding: 2rem;
 .footer .List-inline-Item{
     display: inline;
 }
+.footer{
+    background-color: #581c87;
+}
+.footer .link{
+color: aliceblue;
+border-radius: 0.5rem;
+text-align: center;
+border: 1px solid;
+}
+.footer .footer-header{
+    text-align: center;
+    color: aliceblue;
+}
