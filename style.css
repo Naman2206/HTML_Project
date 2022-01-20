@@ -118,14 +118,21 @@ padding: 2rem;
 }
 .footer{
     background-color: #581c87;
+    padding: 1rem 2rem;
 }
 .footer .link{
 color: aliceblue;
 border-radius: 0.5rem;
 text-align: center;
 border: 1px solid;
+padding: 1rem 2rem;
 }
 .footer .footer-header{
     text-align: center;
     color: aliceblue;
+
+}
+.footer ul{
+    padding-inline-start: 0px;
+    text-align: center;
 }
